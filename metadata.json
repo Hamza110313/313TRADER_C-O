@@ -1,0 +1,8 @@
+{
+  "name": "VoltGrid Supply",
+  "description": "Precision energy commerce storefront for hybrid inverters, LiFePO4 storage banks, monocrystalline solar arrays, and MPPT power conversion hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
